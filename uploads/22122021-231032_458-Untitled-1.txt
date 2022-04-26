@@ -1,0 +1,7 @@
+===========================================================================
+pubkey: 3ur5sdcV1Zq5rHLMpswFhmxDX8fofDHmf4akXLYVAcJ5
+===========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+silver bench enough congress quiz blue raise village addict donate 
+such dad
+===========================================================================
